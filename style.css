@@ -39,7 +39,8 @@ background-color: rgba(0, 0, 0, 0.87);
 .box input[type = "text"]:hover, .box input[ type = "password"]:hover{
     width: 280px;
     background-color: #ff6127;
-    border-color: #ff4400;    
+    border-color: #ff4400; 
+    color: white;   
 }
 .box input[type = "submit"]{
     border: 0;
@@ -57,4 +58,5 @@ background-color: rgba(0, 0, 0, 0.87);
 }
 .box input[type = "submit"]:hover{
     background-color: #1A659E;
+    color: white
 }
